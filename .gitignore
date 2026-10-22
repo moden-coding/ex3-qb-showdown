@@ -1,0 +1,12 @@
+out/
+bin/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+nbproject/
+.DS_Store
